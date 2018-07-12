@@ -1,4 +1,4 @@
-# Smartsupp plugin - PrestaShop 1.5
+# Smartsupp plugin - OpenCart 1.5
 
 ## Compatibility
 
